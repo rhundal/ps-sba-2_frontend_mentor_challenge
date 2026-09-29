@@ -392,12 +392,14 @@ body {}
 
     #vr_glassespic {
         position: static;
+        margin: 0 auto 0px;
+    }
 
-        width: 80%;
-        max-width: 350px;
+    #middleSection1 img {
+        position: static;
+
+        width: 100%;
         height: auto;
-
-        margin: 0 auto 30px;
     }
 
     #middleSection1_white {
